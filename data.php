@@ -18,8 +18,8 @@
 'Roblox', 'Super Mario', 'Bomberman', 'Mortal combat', 'Tekken', 'Driver', 'PES'
       ];
 
-      $nu1 = rand(0,17);
       
+      //Variável $su chamando um elemento da Array $su pelo método (rand)
       echo $us[rand(0,17)];
 
       
